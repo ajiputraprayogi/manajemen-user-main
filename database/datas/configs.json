@@ -1,0 +1,15 @@
+[
+    {
+        "option": "app_name",
+        "value": "User Manager"
+    },
+    {
+        "option": "app_copyright",
+        "value": "2022"
+    },
+    {
+        "option": "app_logo",
+        "value": "assets/images/logo.png"
+    }
+
+]

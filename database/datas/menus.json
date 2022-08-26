@@ -1,0 +1,27 @@
+[
+    {
+        "parent_name":"",
+        "menu_name": "Dashboard",
+        "menu_route": "dashboard",
+        "menu_icon": "fa fa-home"
+    },
+    {
+        "parent_name":"",
+        "menu_name": "Pengaturan",
+        "menu_route": "#",
+        "menu_icon": "fa fa-cogs"
+    } ,
+    {
+        "parent_name":"Pengaturan",
+        "menu_name": "Role",
+        "menu_route": "role",
+        "menu_icon": ""
+    }
+    ,
+    {
+        "parent_name":"Pengaturan",
+        "menu_name": "Menu",
+        "menu_route": "menu",
+        "menu_icon": ""
+    }
+]

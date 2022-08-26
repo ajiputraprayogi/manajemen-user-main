@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Administrator",
+        "display_name": "Administrator"
+    },
+    {
+        "name": "Karyawan",
+        "display_name": "Karyawan"
+    }
+]
